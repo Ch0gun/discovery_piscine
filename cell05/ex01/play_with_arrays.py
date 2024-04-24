@@ -1,4 +1,5 @@
-ori =[4,5,2,1,6,8,1,7]
+#!/usr/bin/env python3
+ori =[2,8,9,48,8,22,-12,2]
 new = []
 for number in ori :
     new.append(number + 2)

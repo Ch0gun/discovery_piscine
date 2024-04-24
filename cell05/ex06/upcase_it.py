@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import sys
 para = sys.argv
 num = len(para) - 1
