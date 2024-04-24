@@ -1,4 +1,4 @@
-import sys , re
+import sys
 arg = sys.argv
 del arg[0]
 if len(arg) != 2 :
